@@ -1,7 +1,10 @@
 {
-   "years":[
-      1999,
-      2000,
-      2001
+   "products": [
+      {
+         "id": 1,
+         "name": "Televizyon",
+         "description": "",
+         "image": "https://cdn.cimri.io/image/1200x1200/altustelevizyonlarfiyatlar_471818432.jpg"
+      }
    ]
 }
